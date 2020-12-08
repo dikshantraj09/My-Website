@@ -61,9 +61,8 @@ body {
 }
 
 .carousel-inner img {
-    padding-right: 10px;
-    width: 1879px;
-    height: 888px;
+    height: 100%;
+    width: 100%;
 }
 
 .jumbotron {
@@ -179,7 +178,7 @@ body {
 
 /*---Media Queries --*/
 
-@media (max-width: 1080px) {}
+@media (max-width: 1920px) {}
 
 @media (max-width: 768px) {}
 
