@@ -67,6 +67,7 @@ body {
 }
 
 .jumbotron {
+    font-family: 'nevis', sans-serif;
     margin-bottom: 0px;
     color: rgb(0, 52, 77);
     background-color: rgb(212, 211, 211);
@@ -80,6 +81,7 @@ body {
 .btn {
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-top: 8px;
     font-size: 25px;
     color: rgb(240, 240, 240);
     background-color: rgb(0, 52, 77);
