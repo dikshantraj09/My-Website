@@ -124,6 +124,10 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+.gal {
+    padding: 10px;
+}
+
 .social {
     padding-top: 15px;
     background-color: rgb(0, 0, 0);
