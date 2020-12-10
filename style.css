@@ -95,15 +95,15 @@ body {
 }
 
 .icons img {
-    height: 100px;
-    width: 100px;
+    padding: 15px;
+    height: 80px;
+    width: 80px;
 }
 
 .icons {
-    align-self: center;
     background-color: rgb(253, 253, 253);
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 .icons img:hover {
@@ -225,6 +225,13 @@ body {
     border-radius: 13px;
 }
 
+.skills {
+    font-family: 'nevis', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 13px;
+    margin-top: 15px;
+}
+
 .lang {
     font-family: 'nevis', sans-serif;
     background-color: rgb(255, 255, 255);
@@ -237,6 +244,15 @@ body {
     background-color: rgb(255, 255, 255);
     border-radius: 13px;
     margin-top: 15px;
+}
+
+.resume {
+    color: rgb(208, 246, 253);
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 0px;
+    border-radius: 50px;
+    font-size: 15px;
 }
 
 
