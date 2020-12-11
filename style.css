@@ -102,6 +102,10 @@ body {
 }
 
 .icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    vertical-align: justify;
     background-color: rgb(253, 253, 253);
     padding-bottom: 5px;
     padding-top: 5px;
