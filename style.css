@@ -6,7 +6,7 @@ body {
     width: auto !important;
     overflow-x: hidden !important;
     height: 100%;
-    font-family: nevis;
+    font-family: nevis, sans-serif;
     ;
     letter-spacing: 0px;
     color: rgb(100, 100, 100);
@@ -203,11 +203,11 @@ body {
     margin: 0px;
     font-size: 20px;
     font-style: bolder;
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
 }
 
 .pic .caption .subtext {
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
     letter-spacing: 2px;
     font-size: 15px;
     color: rgb(44, 44, 44);
@@ -225,27 +225,27 @@ body {
 }
 
 .edu {
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
     background-color: rgb(255, 255, 255);
     border-radius: 13px;
 }
 
 .skills {
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
     background-color: rgb(255, 255, 255);
     border-radius: 13px;
     margin-top: 15px;
 }
 
 .lang {
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
     background-color: rgb(255, 255, 255);
     border-radius: 13px;
     margin-top: 15px;
 }
 
 .contact {
-    font-family: 'nevis';
+    font-family: 'nevis', sans-serif;
     background-color: rgb(255, 255, 255);
     border-radius: 13px;
     margin-top: 15px;
