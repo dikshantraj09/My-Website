@@ -63,8 +63,35 @@ body {
     font-size: 1rem;
 }
 
+@keyframes spin {
+    from {
+        transform: rotateY(0deg);
+    }
+    to {
+        transform: rotateY(360deg);
+    }
+}
+
+.CoverImage {
+    background-color: rgb(0, 28, 37);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 .box {
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(0, 0, 0);
+}
+
+.CoverImage img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: auto;
+    animation-name: spin;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
 }
 
 .carousel-inner img {
